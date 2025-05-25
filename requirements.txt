@@ -1,0 +1,28 @@
+HTML/CSS/JS
+Python Flask 
+Firebase/ Firebase realtime database 
+Langchain 
+Pinecone?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
